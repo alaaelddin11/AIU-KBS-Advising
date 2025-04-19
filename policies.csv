@@ -1,6 +1,0 @@
-﻿Category,Condition,max,Policy Description,,,
-Credit Limit,CGPA < 2.00,12,"Fall, Spring",,,
-Credit Limit,2.00 ≤ CGPA < 3.00,20,"Fall, Spring",,,
-Credit Limit,CGPA ≥ 3.00,22,"Fall, Spring",,,
-Credit Limit,Summer Semester,9,Summer,,,
-Retaking Failed Courses,Grade = F,B+,Retaking a failed course is mandatory,,,
